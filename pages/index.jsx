@@ -1,7 +1,7 @@
+import LandingPage from './LandingPage'
+
 const Home = () => {
-  return (
-    <h1>hello world</h1>
-  )
+  return <LandingPage />
 }
 
 export default Home
