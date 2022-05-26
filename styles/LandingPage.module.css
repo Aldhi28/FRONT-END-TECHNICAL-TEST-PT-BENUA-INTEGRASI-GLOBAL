@@ -1,0 +1,265 @@
+.logo {
+  position: absolute;
+  width: 44px;
+  height: 70px;
+  left: 160px;
+  top: 59px;
+}
+.pAtas {
+  position: absolute;
+  width: 172px;
+  height: 20px;
+  left: 1100px;
+  top: 84px;
+  font-family: 'Krona One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: -0.095em;
+  color: #000000;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+}
+.conten {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -100px;
+}
+.h1 {
+  position: absolute;
+  margin-right: -20px;
+  width: 602px;
+  height: 120px;
+  top: 162px;
+
+  font-family: 'Krona One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: -0.095em;
+  color: #28293d;
+}
+.pBawah {
+  position: absolute;
+  width: 490px;
+  height: 40px;
+  left: 477px;
+  top: 315px;
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  /* Black 1 */
+
+  color: #9090a7;
+}
+.btn {
+  position: absolute;
+  width: 197px;
+  height: 64px;
+  left: 628px;
+  top: 388px;
+  background: #055cc4;
+  border-radius: 8px;
+}
+.hpKiri {
+  position: absolute;
+  width: 346.73px;
+  height: 495px;
+  left: 500px;
+  top: 495px;
+  z-index: 1;
+}
+.hpKanan {
+  position: absolute;
+  width: 252.17px;
+  height: 343.23px;
+  left: 759.87px;
+  top: 515.86px;
+}
+.ellipse7 {
+  position: absolute;
+  width: 758px;
+  height: 379px;
+  left: 393px;
+  top: 603px;
+  z-index: -2;
+}
+.vector {
+  position: absolute;
+  width: 224.2px;
+  height: 293.7px;
+  left: 981px;
+  top: 549px;
+  z-index: -3;
+}
+.sembilan {
+  width: 100px;
+  height: 100px;
+  margin-left: -600px;
+  margin-top: 516px;
+  background: #ffff;
+  box-shadow: 0px 8px 26px -5px rgba(53, 104, 212, 0.08);
+  border-radius: 11px;
+}
+.keranjang {
+  display: flex;
+  justify-content: center;
+  margin-left: -10px;
+}
+.income {
+  background-color: #ffff;
+  position: absolute;
+  width: 230px;
+  height: 86px;
+  left: 254px;
+  top: 703px;
+  border-radius: 5px;
+  z-index: -1;
+}
+.textHarga {
+  position: static;
+  margin-top: 220px;
+  margin-left: -60px;
+  z-index: 1;
+}
+.harga {
+  margin-top: -15px;
+  margin-left: -60px;
+  z-index: 1;
+}
+.order {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 230px;
+  height: 86px;
+  left: 1036px;
+  top: 500px;
+  background: #fafafc;
+  border-radius: 5px;
+}
+.arounded {
+  position: absolute;
+  width: 52px;
+  height: 52px;
+  left: 1053px;
+  top: 522px;
+}
+.newOrder {
+  position: absolute;
+  width: 60px;
+  height: 15px;
+  left: 1117px;
+  top: 530px;
+
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #9090a7;
+}
+.jaydon {
+  position: absolute;
+  width: 106px;
+  height: 18px;
+  left: 1117px;
+  top: 548px;
+
+  font-family: 'Krona One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  /* identical to box height */
+
+  letter-spacing: -0.095em;
+
+  color: #000000;
+}
+.kotak {
+  background-color: #000000;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 1033px;
+  top: 687px;
+  background: #ffffff;
+  box-shadow: 0px 8px 26px -5px rgba(53, 104, 212, 0.08);
+  border-radius: 11px;
+}
+.bag {
+  position: absolute;
+  left: 30%;
+  right: 16%;
+  top: 30%;
+  bottom: 20%;
+}
+.delapan {
+  position: absolute;
+  width: 14.89px;
+  height: 14.89px;
+  left: 260px;
+  top: 830px;
+}
+.delapan1 {
+  position: absolute;
+  width: 14.89px;
+  height: 14.89px;
+  left: 320px;
+  top: 829px;
+}
+
+.delapan2 {
+  position: absolute;
+  width: 14.89px;
+  height: 14.89px;
+  left: 340px;
+  top: 829px;
+}
+
+.delapan3 {
+  position: absolute;
+  width: 14.89px;
+  height: 14.89px;
+  left: 360px;
+  top: 829px;
+}
+.delapan4 {
+  position: absolute;
+  width: 14.89px;
+  height: 14.89px;
+  left: 380px;
+  top: 829px;
+}
+.delapan5 {
+  position: absolute;
+  width: 14.89px;
+  height: 14.89px;
+  left: 400px;
+  top: 829px;
+}
+.delapan6 {
+  position: absolute;
+  width: 14.89px;
+  height: 14.89px;
+  left: 420px;
+  top: 829px;
+}
+.delapan7 {
+  position: absolute;
+  width: 14.89px;
+  height: 14.89px;
+  left: 440px;
+  top: 829px;
+}
